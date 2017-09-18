@@ -3,7 +3,7 @@
 //  MisRecetas
 //
 //  Created by Cesar Avila on 23/08/17.
-//  Copyright © 2017 Cesar Avila. All rights reserved....
+//  Copyright © 2017 Cesar Avila. All rights reserved.
 //
 
 import UIKit
