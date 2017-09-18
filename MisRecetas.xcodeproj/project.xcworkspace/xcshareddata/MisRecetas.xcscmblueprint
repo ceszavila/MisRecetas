@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B3FDD3D8238B5F219F51A756A037940C9DB9B295",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B3FDD3D8238B5F219F51A756A037940C9DB9B295" : 9223372036854775807,
+    "790C83225FD79FBCEA205A1D33888116DDD27C39" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "896E6457-951B-48BF-ADDC-C8410BCC1B9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B3FDD3D8238B5F219F51A756A037940C9DB9B295" : "Cursos%20de%20Swift\/",
+    "790C83225FD79FBCEA205A1D33888116DDD27C39" : "..\/Downloads\/P1-MisRecetas"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MisRecetas",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Udemy\/Curso de iOS10 y Swift 3 de Cero a Experto\/Seccion 19\/MisRecetas\/MisRecetas.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joanby\/MisRecetas.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "790C83225FD79FBCEA205A1D33888116DDD27C39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ceszavila\/cursoSwiftTecMonterreyCesarAvila.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3FDD3D8238B5F219F51A756A037940C9DB9B295"
+    }
+  ]
+}
